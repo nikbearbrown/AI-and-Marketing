@@ -1,3 +1,5 @@
-# Bear Brown and Company
+# Chapters
+
+These are the current chapters.
 
 
